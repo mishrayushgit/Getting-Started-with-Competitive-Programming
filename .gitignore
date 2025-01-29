@@ -1,0 +1,19 @@
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore backup files
+*~
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE specific files (e.g., VS Code)
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
